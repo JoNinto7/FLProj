@@ -20,7 +20,7 @@ Faculty Information Viewer is a Python-based tool that allows users to extract a
 3. View the extracted information in a pop-up window and a .txt file will be saved with the same name as the HTML file.
 4. Optional: To fetch all data at once, run: python main.py
 ## File Structure
-FLProj/
+### FLProj/
 - Faculty/                # Folder containing HTML files for faculty members
 - faculty_viewer.py       # Main Python script with GUI
 - main.py                 # Script to fetch and save all data at once
