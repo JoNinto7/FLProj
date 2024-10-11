@@ -1,0 +1,6 @@
+Name: Dr. Rodion Podorozhny
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL AVERY 464D
+Phone: (512) 408-3221
+Email: rp31@txstate.edu

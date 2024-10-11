@@ -1,0 +1,6 @@
+Name: Dr. Ted Lehr
+Title: Associate Professor of Practice
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3666
+Email: t_l81@txstate.edu

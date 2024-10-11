@@ -1,0 +1,6 @@
+Name: Dr. Apan Muhammad Qasem
+Title: Professor
+Department: Computer Science
+Office: CMAL 307D.2
+Phone: (512) 245-0347
+Email: aq10@txstate.edu

@@ -1,0 +1,6 @@
+Name: Dr. Vasant Ramkumar
+Title: Lecturer
+Department: Computer Science
+Office: CMAL 301
+Phone: (512) 245-3409
+Email: v_r72@txstate.edu

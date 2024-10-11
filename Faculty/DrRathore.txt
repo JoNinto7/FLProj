@@ -1,0 +1,6 @@
+Name: Dr. Heena Rathore
+Title: Assistant Professor
+Department: Computer Science
+Office: CMAL COMAL 309E
+Phone: (512) 245-3409
+Email: vgt16@txstate.edu

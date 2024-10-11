@@ -1,0 +1,6 @@
+Name: Dr. Chul-Ho Lee
+Title: Assistant Professor
+Department: Computer Science
+Office: CMAL 311G
+Phone: (512) 245-3409
+Email: fsr11@txstate.edu

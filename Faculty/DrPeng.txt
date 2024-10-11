@@ -1,0 +1,6 @@
+Name: Dr. Wuxu Peng
+Title: Professor
+Department: Computer Science
+Office: CMAL 309B
+Phone: (512) 245-3874
+Email: wp01@txstate.edu

@@ -1,0 +1,6 @@
+Name: Dr. Oleg V Komogortsev
+Title: Professor
+Department: Computer Science
+Office: CMAL 309D
+Phone: (512) 245-3409
+Email: ok11@txstate.edu

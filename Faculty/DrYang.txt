@@ -1,0 +1,6 @@
+Name: Dr. Kecheng Yang
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 307C
+Phone: (512) 245-3409
+Email: k_y47@txstate.edu

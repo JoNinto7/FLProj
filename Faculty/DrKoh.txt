@@ -1,0 +1,6 @@
+Name: Dr. Lee-Song Koh
+Title: Senior Lecturer
+Department: Computer Science
+Office: CMAL 309A
+Phone: (512) 245-7438
+Email: lk04@txstate.edu

@@ -1,0 +1,6 @@
+Name: Rick King
+Title: Lecturer
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3409
+Email: ck1224@txstate.edu

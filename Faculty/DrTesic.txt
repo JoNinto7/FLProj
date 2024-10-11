@@ -1,0 +1,6 @@
+Name: Dr. Jelena Tesic
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3409
+Email: j_t463@txstate.edu

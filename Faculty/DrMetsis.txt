@@ -1,0 +1,6 @@
+Name: Dr. Vangelis Metsis
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-7509
+Email: v_m137@txstate.edu

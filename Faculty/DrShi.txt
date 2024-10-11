@@ -1,0 +1,6 @@
+Name: Dr. Hongchi Shi
+Title: Chair - Professor
+Department: Computer Science
+Office: CMAL 211F
+Phone: (512) 245-3409
+Email: hs15@txstate.edu

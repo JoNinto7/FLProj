@@ -1,0 +1,6 @@
+Name: Dr. Jill M Seaman
+Title: Professor of Instruction
+Department: Computer Science
+Office: CMAL COMAL 210D
+Phone: (512) 245-4706
+Email: js236@txstate.edu

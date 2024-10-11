@@ -1,0 +1,6 @@
+Name: Dr. Ziliang Zong
+Title: Professor
+Department: Computer Science
+Office: CMAL 301C
+Phone: (512) 245-8344
+Email: zz11@txstate.edu

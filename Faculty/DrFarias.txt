@@ -1,0 +1,6 @@
+Name: Dr. Mylene Queiroz de Farias
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 311B
+Phone: (512) 245-3409
+Email: asf93@txstate.edu
