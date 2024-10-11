@@ -1,0 +1,6 @@
+Name: Dr. David K P Cheung
+Title: Lecturer
+Department: Computer Science
+Office: CMAL 464X
+Phone: (512) 245-3409
+Email: d_c426@txstate.edu

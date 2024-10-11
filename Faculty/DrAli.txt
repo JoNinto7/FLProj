@@ -1,0 +1,6 @@
+Name: Dr. Moonis Ali
+Title: Professor
+Department: Computer Science
+Office: CMAL 301B
+Phone: (512) 245-8050
+Email: ma04@txstate.edu

@@ -1,0 +1,6 @@
+Name: Dr. Martin Burtscher
+Title: Professor
+Department: Computer Science
+Office: CMAL 309C
+Phone: (512) 245-3443
+Email: mb92@txstate.edu

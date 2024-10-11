@@ -1,0 +1,6 @@
+Name: Dr. Byron Gao
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 311D
+Phone: (512) 245-0348
+Email: jg66@txstate.edu

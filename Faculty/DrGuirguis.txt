@@ -1,0 +1,6 @@
+Name: Dr. Mina S Guirguis
+Title: Professor
+Department: Computer Science
+Office: CMAL 311E
+Phone: (512) 245-6384
+Email: mg65@txstate.edu

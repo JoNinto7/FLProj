@@ -1,0 +1,6 @@
+Name: Dr. Xiao Chen
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 311A
+Phone: (512) 245-3873
+Email: xc10@txstate.edu

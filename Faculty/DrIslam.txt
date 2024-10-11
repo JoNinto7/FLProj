@@ -1,0 +1,6 @@
+Name: Dr. Tanzima Islam
+Title: Assistant Professor
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3409
+Email: t_i24@txstate.edu
