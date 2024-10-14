@@ -17,8 +17,8 @@ Faculty Information Viewer is a Python-based tool that allows users to extract a
 ## Running the Project
 1. In the main project directory, run: python faculty_viewer.py
 2. Select a faculty member from the drop-down menu.
-3. View the extracted information in a pop-up window and a .txt file will be saved with the same name as the HTML file.
-4. Optional: To fetch all data at once, run: python main.py
+3. View the extracted information in a pop-up window and a .md file will be saved with the same name as the HTML file.
+4. Optional: To fetch all data at once in .txt files, run: python main.py
 ## File Structure
 ### FLProj/
 - Faculty/                # Folder containing HTML files for faculty members

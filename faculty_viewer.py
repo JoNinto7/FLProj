@@ -3,13 +3,10 @@ import re
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-# Get the current directory of the script
-current_dir = os.path.dirname(os.path.abspath(__file__))
+# Path to the folder containing all HTML files
+folder_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Faculty')
 
-# Path to the folder containing all HTML files (relative to the script's directory)
-folder_path = os.path.join(current_dir, 'Faculty')
-
-# Function to extract and display faculty information, and save it to a text file
+# Function to extract and display faculty information, and save it to a Markdown file
 def display_and_save_faculty_info(filename):
     file_path = os.path.join(folder_path, filename)
     
@@ -40,28 +37,40 @@ def display_and_save_faculty_info(filename):
     email_pattern = r'href="mailto:(.*?)"'
     email = re.findall(email_pattern, html_content)
 
-    # Construct the result text to be shown and saved
-    result_text = f"Name: {name[0] if name else 'Not found'}\n"
+    # Construct the result text with markdown italics (for .md file)
+    md_result_text = f"Name: _{name[0] if name else 'Not found'}_\n\n"
     if title_department:
         title, department = title_department[0]
-        result_text += f"Title: {title}\n"
-        result_text += f"Department: {department}\n"
+        md_result_text += f"Title: _{title}_\n\n"
+        md_result_text += f"Department: _{department}_\n\n"
     else:
-        result_text += "Title and Department: Not found\n"
-    result_text += f"Office: {office[0] if office else 'Not found'}\n"
-    result_text += f"Phone: {phone[0] if phone else 'Not found'}\n"
-    result_text += f"Email: {email[0] if email else 'Not found'}\n"
+        md_result_text += "Title and Department: Not found\n\n"
+    md_result_text += f"Office: _{office[0] if office else 'Not found'}_\n\n"
+    md_result_text += f"Phone: _{phone[0] if phone else 'Not found'}_\n\n"
+    md_result_text += f"Email: _{email[0] if email else 'Not found'}_\n\n"
     
-    # Display the result in a message box
-    messagebox.showinfo("Faculty Information", result_text)
+    # Construct plain text for Tkinter display (without markdown underscores)
+    display_text = f"Name: {name[0] if name else 'Not found'}\n\n"
+    if title_department:
+        title, department = title_department[0]
+        display_text += f"Title: {title}\n\n"
+        display_text += f"Department: {department}\n\n"
+    else:
+        display_text += "Title and Department: Not found\n\n"
+    display_text += f"Office: {office[0] if office else 'Not found'}\n\n"
+    display_text += f"Phone: {phone[0] if phone else 'Not found'}\n\n"
+    display_text += f"Email: {email[0] if email else 'Not found'}\n\n"
+    
+    # Display the result in a Tkinter message box (without underscores)
+    messagebox.showinfo("Faculty Information", display_text)
 
-    # Save the result to a text file
-    output_filename = f"{os.path.splitext(filename)[0]}.txt"
+    # Save the result to a Markdown (.md) file (with underscores)
+    output_filename = f"{os.path.splitext(filename)[0]}.md"
     output_file_path = os.path.join(folder_path, output_filename)
-    
+
     with open(output_file_path, 'w') as output_file:
-        output_file.write(result_text)
-    
+        output_file.write(md_result_text)
+
     print(f"Faculty information saved to {output_filename}")
 
 # Function to populate the drop-down menu with HTML files
